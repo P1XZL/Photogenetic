@@ -9,8 +9,8 @@
   [![Github](https://i.imgur.com/D7q3qCU.png)](https://github.com/P1XZL/Velocity) 
   [![fabric](https://i.imgur.com/4z8jd5p.png)](https://fabricmc.net/)
   [![VelocityPlus](https://i.imgur.com/HcDXRKP.png)](https://modrinth.com/modpack/velocity-plus)
-  [![Quicksurf](https://i.imgur.com/mc8HVq3.png)](modrinth.com/modpack/quicksurf)
-  [![Velocity](https://i.imgur.com/7DXraXS.png)](modrinth.com/modpack/velocity-mc)
+  [![Quicksurf](https://i.imgur.com/mc8HVq3.png)](https://modrinth.com/modpack/quicksurf)
+  [![Velocity](https://i.imgur.com/7DXraXS.png)](https://modrinth.com/modpack/velocity-mc)
 
 </center>
 
